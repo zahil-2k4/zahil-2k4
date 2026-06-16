@@ -2,4 +2,4 @@
 
 ### CodeChef Profile
 
-![CodeChef Stats](https://www.codechef.com/users/zahil)
+[CodeChef Profile](https://www.codechef.com/users/zahil)
