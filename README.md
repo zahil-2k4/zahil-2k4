@@ -2,4 +2,4 @@
 
 ### CodeChef Profile
 
-![CodeChef Stats](https://cp-logo.vercel.app/codechef/zahil)
+![CodeChef Stats]((https://www.codechef.com/users/zahil))
